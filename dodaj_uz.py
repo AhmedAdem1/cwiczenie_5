@@ -29,4 +29,4 @@ def register(dic):
         print("Napotkano value error. Zły hasło. ")
 
 
-register(użytkownicy)
+#register(użytkownicy)
